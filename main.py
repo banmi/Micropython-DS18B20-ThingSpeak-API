@@ -8,7 +8,7 @@ import ds18x20
 import urequests
 import time
 import credentials
-from credentials import thing_api
+from credentials import *
 
 
 # **************************************
